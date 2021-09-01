@@ -15,6 +15,3 @@
 * [🐞CVE-2021-3742](https://huntr.dev/bounties/1625472546121-chatwoot/chatwoot/): [CHATWOOT](https://github.com/chatwoot/chatwoot)
 ### 🐛SESSION RELATED ISSUES
 * [🐞CVE-2021-3740](https://huntr.dev/bounties/1625470476437-chatwoot/chatwoot/): [CHATWOOT](https://github.com/chatwoot/chatwoot)
-
-
-# 🐛tOtAl : 9 CVEs
