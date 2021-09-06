@@ -1,6 +1,5 @@
 # 🐛 CVE
-**List and Details of CVE's Assigned to me.**
-[Huntr Profile](https://huntr.dev/users/b3ef/)
+**List and Details of CVE's Assigned to [me](https://huntr.dev/users/b3ef/).**
 ---------------------------------------
 ## 📇 INDEX 
 ### 🐛INSECURE DESERIALIZATION
