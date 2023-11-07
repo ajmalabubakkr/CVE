@@ -1,7 +1,6 @@
-# 🐛 CVE
-**List and Details of CVE's Assigned to [me](https://huntr.dev/users/b3ef/).**
 ---------------------------------------
-
+# 🐛 CVE
+---------------------------------------
 ## 📇 INDEX 
 ### 🐛INSECURE DESERIALIZATION
 * [🐞CVE-2021-23338](https://nvd.nist.gov/vuln/detail/CVE-2021-23338): [MICROSOFT/QLIB](https://github.com/microsoft/qlib)
